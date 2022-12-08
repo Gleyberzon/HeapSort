@@ -1,0 +1,15 @@
+D:\Projects\C# projects\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.exe
+D:\Projects\C# projects\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.deps.json
+D:\Projects\C# projects\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.runtimeconfig.json
+D:\Projects\C# projects\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.dll
+D:\Projects\C# projects\HeapSort\HeapSort\bin\Debug\net6.0\HeapSort.pdb
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.csproj.AssemblyReference.cache
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.AssemblyInfoInputs.cache
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.AssemblyInfo.cs
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.csproj.CoreCompileInputs.cache
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.dll
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\refint\HeapSort.dll
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.pdb
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\HeapSort.genruntimeconfig.cache
+D:\Projects\C# projects\HeapSort\HeapSort\obj\Debug\net6.0\ref\HeapSort.dll
